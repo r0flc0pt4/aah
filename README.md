@@ -13,4 +13,4 @@
 
 ### Stargazers over time
 
-[![Stargazers over time](https://starcharts.herokuapp.com/go-aah/aah.svg)](https://starcharts.herokuapp.com/go-aah/aah)
+[![Stargazers over time](https://starcharts.herokuapp.com/go-aah/aah.svg)](https://starcharts.herokuapp.com/go-aah/aah) [![GuardRails badge](https://badges.production.guardrails.io/r0flc0pt4/aah.svg)](https://www.guardrails.io)
